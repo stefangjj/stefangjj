@@ -1,7 +1,14 @@
-- 👋 Hi, I’m @stefangjj
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning React Js 
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me stefan.gjorgjevski@yahoo.com
+ 👨🏻‍💻 About Me
 
+- 👋 Hi, My name is Stefan
+- 👦 Frontend developer and UI/UX designer in making..
+- 🌱 Learning and exploring new technologies for frontend development and design
+- 💞️ I’m looking to collaborate on 
+- 📫 How to reach me stefan.gjorgjevski99@gmail.com
+
+💻 Tech Stack
+
+- 📱 Linux | Windows
+- 🌐 HTML5 | CSS5 | JavaScript | React | Boot
+- 🔧 Visual Studio
 
